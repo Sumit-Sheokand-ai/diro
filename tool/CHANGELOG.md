@@ -65,7 +65,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Support
 
 For issues, feature requests, or questions:
-- GitHub Issues: [github.com/yourusername/diro/issues]
-- Email: [your-email@example.com]
+- GitHub Issues: [github.com/Sumit-Sheokand-ai/diro/issues]
+- Email: [sumitsheokand347@gmail.com]
 
 Remember: Always use this tool legally and ethically!
+
